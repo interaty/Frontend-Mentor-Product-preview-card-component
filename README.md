@@ -13,7 +13,7 @@
     <a href="https://github.com/interaty/Frontend-Mentor-Product-preview-card-component"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://reliable-pony-d7ba7d.netlify.app/">View Demo</a>
   </p>
 </div>
 
